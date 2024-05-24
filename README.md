@@ -69,3 +69,4 @@ For this workshop you need the following:
 Find common terminology for reference [here](./CheatSheet.md)
 
 - para disparar el actions en on push
+- para que no dispare usamos skip
